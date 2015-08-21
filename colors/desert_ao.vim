@@ -64,6 +64,7 @@ hi PmenuSel ctermbg=6 ctermfg=black
 hi Pmenu ctermbg=7 ctermfg=black
 "hi Pmenu cterm=bold ctermbg=7 ctermfg=0
 hi CursorLine ctermbg=252
+hi Todo ctermbg=7 ctermfg=6
 
 """"hi Normal	guifg=White guibg=grey20
 """"
