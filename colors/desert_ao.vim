@@ -27,8 +27,8 @@ hi SpecialKey	ctermfg=darkgreen
 hi NonText	cterm=bold ctermfg=darkblue
 hi Directory	ctermfg=darkcyan
 hi ErrorMsg	cterm=bold ctermfg=7 ctermbg=1
-hi IncSearch ctermbg=3 ctermfg=black
-hi Search ctermbg=3 ctermfg=black
+hi IncSearch ctermbg=0 ctermfg=3
+hi Search ctermbg=3 ctermfg=1
 hi MoreMsg	ctermfg=darkgreen
 hi ModeMsg	cterm=NONE ctermfg=brown
 hi LineNr	ctermfg=3
@@ -47,8 +47,8 @@ hi DiffAdd	ctermbg=darkcyan
 hi DiffChange	cterm=bold ctermbg=5
 hi DiffDelete	cterm=bold ctermfg=4 ctermbg=6
 hi DiffText	cterm=bold ctermbg=1
-hi Comment	ctermfg=darkcyan
-hi Constant	ctermfg=darkblue
+hi Comment	ctermfg=7
+hi Constant	ctermfg=1
 hi Special	ctermfg=5
 hi Identifier	ctermfg=6
 hi Statement	ctermfg=3
