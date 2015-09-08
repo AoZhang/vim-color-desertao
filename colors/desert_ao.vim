@@ -3,7 +3,7 @@
 "               Zhang Ao <ao.2322@gmail.com>
 " Last Change:	$Date: 2004/06/13 19:30:30 $
 " Last Change:	$Date: 2013/07/31 19:48:30 $
-" URL:		    ~/.vim/able/__other_plugins__/colors/desert_ao.vim
+" URL:		    ~/.vim/colors/desert_ao.vim
 " Version:	$Id: desert_ao.vim,v 1.1 2004/06/13 19:30:30 vimboss Exp $
 
 " cool help screens
@@ -47,7 +47,7 @@ hi DiffAdd	ctermbg=darkcyan
 hi DiffChange	cterm=bold ctermbg=5
 hi DiffDelete	cterm=bold ctermfg=4 ctermbg=6
 hi DiffText	cterm=bold ctermbg=1
-hi Comment	ctermfg=7
+hi Comment	ctermfg=darkblue
 hi Constant	ctermfg=1
 hi Special	ctermfg=5
 hi Identifier	ctermfg=6
@@ -59,11 +59,8 @@ hi Ignore	cterm=bold ctermfg=7
 hi Ignore	ctermfg=darkgrey
 hi Error	cterm=bold ctermfg=2 ctermbg=1
 
-"added by Zhang Ao
 hi PmenuSel ctermbg=6 ctermfg=black
 hi Pmenu ctermbg=7 ctermfg=black
-"hi Pmenu cterm=bold ctermbg=7 ctermfg=0
-hi CursorLine ctermbg=252
 hi Todo ctermbg=7 ctermfg=6
 
 """"hi Normal	guifg=White guibg=grey20
