@@ -3,7 +3,7 @@
 "               Zhang Ao <ao.2322@gmail.com>
 " Last Change:	$Date: 2004/06/13 19:30:30 $
 " Last Change:	$Date: 2013/07/31 19:48:30 $
-" URL:		    ~/.vim/able/__other_plugins__/colors/desert_ao.vim
+" URL:		    ~/.vim/colors/desert_ao.vim
 " Version:	$Id: desert_ao.vim,v 1.1 2004/06/13 19:30:30 vimboss Exp $
 
 " cool help screens
