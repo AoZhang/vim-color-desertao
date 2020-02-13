@@ -63,6 +63,11 @@ hi PmenuSel ctermbg=6 ctermfg=black
 hi Pmenu ctermbg=7 ctermfg=black
 hi Todo ctermbg=7 ctermfg=6
 
+hi DiffAdd	    ctermbg=4
+hi DiffChange	ctermbg=5
+hi DiffDelete	cterm=bold ctermfg=4 ctermbg=6
+hi DiffText	    cterm=bold ctermbg=1
+
 """"hi Normal	guifg=White guibg=grey20
 """"
 """"" highlight groups
